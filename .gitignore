@@ -1,3 +1,6 @@
+# data
+acs2017_census_tract_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
