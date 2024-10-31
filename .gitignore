@@ -1,5 +1,7 @@
 # data
 acs2017_census_tract_data.csv
+example.ipynb
+chatgpt.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
